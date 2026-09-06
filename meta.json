@@ -1,0 +1,23 @@
+{
+  "repo": "resolume-avenue-live-vj-premium",
+  "product": "Resolume Avenue Live VJ Premium",
+  "kind": "video",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "video",
+  "topics": [
+    "resolume-avenue",
+    "vj-mixer",
+    "syphon-spout",
+    "clip-decks",
+    "live-visuals",
+    "resolume-setup-failed-fix",
+    "how-to-install-resolume",
+    "resolume-windows",
+    "resolume-desktop-2026",
+    "resolume-desktop-package"
+  ],
+  "site": "toolix.me"
+}
